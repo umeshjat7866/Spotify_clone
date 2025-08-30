@@ -25,7 +25,7 @@ This project focuses on recreating Spotify’s clean design with a fully respons
 ## 📸 Screenshots  
 
 ### Desktop View  
-![Desktop Screenshot]()  
+![Desktop Screenshot](https://github.com/umeshjat7866/Spotify_clone/blob/7be19488c770b38cf9694806f23eede246fe501b/spot.mp4)  
 
 ---
 
